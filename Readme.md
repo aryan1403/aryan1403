@@ -1,16 +1,15 @@
 ## Hi,
 I'm [Aaryan](https://t.me/aryan1403) a 15 years old Coder from India
-
-[![Profile views](https://komarev.com/ghpvc/?username=aryan1403&label=Profile%20views)](https://github.com/aryan1403)
   
 - 💫 Coder
-- 📫 [Connect with me](#-connect-with-me).
+- 📫 [Connect with me](http://t.me/aryan1403).
 - ⚡ Always ready to help!
 ---
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/aaryan14032006?label=Follow)](https://twitter.com/intent/follow?screen_name=aaryan14032006)
 ![GitHub followers](https://img.shields.io/github/followers/aryan1403?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=aryan1403.aryan1403)
+[![Profile views](https://komarev.com/ghpvc/?username=aryan1403&label=Profile%20views)](https://github.com/aryan1403)
 
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **My Github Data**

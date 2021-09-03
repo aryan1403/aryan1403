@@ -3,7 +3,7 @@ I'm [Aaryan](https://t.me/aryan1403) a 15 years old Coder from India
   
 - 💫 Coder
 - 📫 [Connect with me](http://t.me/aryan1403).
-- ⚡ Always ready to help!
+- ⚡ Meow Meow
 ---
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/aaryan14032006?label=Follow)](https://twitter.com/intent/follow?screen_name=aaryan14032006)
@@ -54,3 +54,7 @@ I'm [Aaryan](https://t.me/aryan1403) a 15 years old Coder from India
 [![Metrics](https://metrics.lecoq.io/aryan1403?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://t.me/aryan1403)
 
 ---
+
+## Donate me xD
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white])](https://paypal.me/surinderkumar1492?locale.x=en_GB)

@@ -1,5 +1,5 @@
-# Hi,
-I'm [Aaryan](https://t.me/aryan1403) a 15 years old Coder from India
+# Hi, I'm [Aaryan](https://t.me/aryan1403)
+I'm a 15 years old Coder from India
   
 - 💫 Coder
 - 📫 [Connect with me](http://t.me/aryan1403).
